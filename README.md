@@ -3,6 +3,9 @@
 ## About Me
 Economist with a focus on finance from Pontifical Javeriana University, currently pursuing a Master's in Artificial Intelligence in Bogotá, Colombia. Experienced in data analysis, I possess strong teamwork, creativity, and analytical skills. Passionate about finance, investments, data analysis, and process automation. Aspiring to become a prominent data scientist. 
 
+## Location
+- 🌎 I live in [Bogotá, Colombia].
+  
 ## Skills
 - 💻 Programming Languages: [🐍Python,📊SQL, 📈R,C++].
 - 🛠️ Technologies and Tools: [Git, Datastage,Pentaho,🐘Hadoop].
