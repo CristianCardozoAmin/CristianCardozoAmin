@@ -7,7 +7,7 @@ Economist with a focus on finance from Pontifical Javeriana University, currentl
 - 🌎 I live in [Bogotá, Colombia].
   
 ## Skills
-- 💻 Programming Languages: https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
+- 💻 Programming Languages: [Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 - 🛠️ Technologies and Tools: [Git, Datastage,Pentaho,🐘Hadoop,📊PowerBi].
 - 📊 Areas of Interest: [Data science, machine learning].
   
