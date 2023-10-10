@@ -6,7 +6,7 @@ Economist with a focus on finance from Pontifical Javeriana University, currentl
 ## Skills
 - 💻 Programming Languages: [🐍Python,📊SQL, 📈R,C++].
 - 🛠️ Technologies and Tools: [Git, Datastage,Pentaho,🐘Hadoop].
-- 📊 Areas of Interest: [List of areas of interest, e.g., web development, data analysis, machine learning].
+- 📊 Areas of Interest: [Data science, machine learning].
 
 <!--
 **CristianCardozoAmin/CristianCardozoAmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
