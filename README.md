@@ -10,9 +10,9 @@ Economist with a focus on finance from Pontifical Javeriana University, currentl
 - 💻 Programming Languages:</br>![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   </br>![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
   </br>![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  </br>![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
   
 - 🛠️ Technologies and Tools: [Git, Datastage,Pentaho,🐘Hadoop,📊PowerBi].
+  </br>![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
   
 - 📊 Areas of Interest: [Data science, machine learning].
   
