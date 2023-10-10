@@ -8,10 +8,10 @@ Economist with a focus on finance from Pontifical Javeriana University, currentl
   
 ## Skills
 - 💻 Programming Languages: [🐍Python,📊SQL, 📈R,C++].
-- 🛠️ Technologies and Tools: [Git, Datastage,Pentaho,🐘Hadoop].
+- 🛠️ Technologies and Tools: [Git, Datastage,Pentaho,🐘Hadoop,📊PowerBi].
 - 📊 Areas of Interest: [Data science, machine learning].
   
-### 🚀 Work Experience
+## 🚀 Work Experience
 
 **Specialist in Business Automation and Insights - Big Data & RTD Campaigns**
 *Telefónica | September 2022 - Present*
@@ -36,6 +36,35 @@ Economist with a focus on finance from Pontifical Javeriana University, currentl
 - 💼 Worked extensively on data analysis using Python and SQL, and produced reports for visualization in Power BI.
 - 👥 Collaborated with diverse areas within Ecopetrol: Logistics, Finance, Crude Oil, Petrochemicals, Commercial, and more.
 
+## 📚 Education
+
+**Master's in Artificial Intelligence**
+*Pontificia Universidad Javeriana | December 2022 - Present*
+- Pursuing a Master's in Artificial Intelligence.
+
+**Bachelor's in Economics with a Focus on Financial Economics**
+*Pontificia Universidad Javeriana | July 2016 - September 2021*
+- 📊 Emphasis on financial economics.
+- 🧬 Member of the Data Science research group.
+- 💻 Completed supplementary courses in systems engineering.
+- 🎓 Recipient of the Familia Piedrahita Scholarship (2016-2021).
+
+### 🌱 Additional Education
+
+**Deep Learning**
+*Coursera - deeplearning.ai | December 2020* 🧠
+
+**Administrative Portfolios**
+*Pontificia Universidad Javeriana | October 2020* 📊
+
+**Financial Markets**
+*Coursera - Yale University | September 2020* 💹
+
+**Excel Skills for Business**
+*Coursera - Macquarie University | July 2020* 📈
+
+**SQL for Data Science**
+*Coursera - University of California | August 2021* 📊🔍
 
 <!--
 **CristianCardozoAmin/CristianCardozoAmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
