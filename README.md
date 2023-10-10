@@ -1,5 +1,13 @@
 # Hi there 👋, my name is Cristian Cardozo 
 
+## About Me
+Economist with a focus on finance from Pontifical Javeriana University, currently pursuing a Master's in Artificial Intelligence in Bogotá, Colombia. Experienced in data analysis, I possess strong teamwork, creativity, and analytical skills. Passionate about finance, investments, data analysis, and process automation. Aspiring to become a prominent data scientist. 
+
+## Skills
+- 💻 Programming Languages: [🐍Python,📊SQL, 📈R,C++].
+- 🛠️ Technologies and Tools: [Git, Datastage,Pentaho,🐘Hadoop].
+- 📊 Areas of Interest: [List of areas of interest, e.g., web development, data analysis, machine learning].
+
 <!--
 **CristianCardozoAmin/CristianCardozoAmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
