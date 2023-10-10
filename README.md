@@ -7,7 +7,11 @@ Economist with a focus on finance from Pontifical Javeriana University, currentl
 - 🌎 I live in [Bogotá, Colombia].
   
 ## Skills
-- 💻 Programming Languages:</br>![Python](https://img.shields.io/badge/Python-3.6%2B-blue)
+- 💻 Programming Languages:</br>![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+  </br>![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+  </br>![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  </br>![Microsoft SQL Server](hhttps://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+  </br>![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
   
 - 🛠️ Technologies and Tools: [Git, Datastage,Pentaho,🐘Hadoop,📊PowerBi].
   
